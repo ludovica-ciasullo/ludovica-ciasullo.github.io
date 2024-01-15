@@ -1,0 +1,48 @@
+---
+title: "Research"
+---
+
+## Working papers
+
+#### What works for working mothers? A regular schedule lowers the child penalty (with [Martina Uccioli](https://www.martinauccioli.com/)) [\[Paper\]](Ciasullo_Uccioli-Child_penalty_working_arrangements.pdf)
+
+```{=html}
+<button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  Abstract
+</button>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+Which work arrangements do mothers prefer, and how do these work arrangements affect the child penalty they experience? The Australian 2009 Fair Work Act explicitly entitled parents of young children to request a (reasonable) change in work arrangements. Leveraging variation in the timing of the law, timing of childbirth, and the bite of the law across different occupations and industries, we establish two main results. First, if allowed to request a change in work arrangements, new mothers ask for regularity in their schedule. Second, with regular schedules, working mothers' child penalty declined from a 47 percent drop in hours worked to a 40 percent drop. For the most exposed mothers, the Fair Work Act led to both a doubling in schedule regularity, and a 30% decrease in the child penalty in hours of work.
+  </div>
+</div>
+```
+## Work in progress
+
+#### The gender effects of changes in returns to overtime
+
+```{=html}
+<button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  Abstract
+</button>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+How does the convexity of the wage schedule (higher hourly wage for long-hours jobs) relate to the gender wage gap? First, this paper relies on admin data that records hours and overtime hours separately to quantify returns to long hours. Next, it exploits the Portuguese Law 23/2012, which lowered the minimum overtime pay rate, by a different amount for different industries, to understand how workers and firms react to exogenous changes in the wage schedule. Preliminary results indicate a positive effect of the law on overtime hours post 2012 for more exposed individuals, with a bigger effect among men than among women. Next steps include further analysis of the mechanisms behind the result, and merging with marriage/birth records to perform household-level analysis.
+
+  </div>
+</div>
+```
+#### Full-time mothers, part-time workers (with [Martina Uccioli](https://www.martinauccioli.com/) and [Valeria Zurla](https://www.valeriazurla.com/))
+
+```{=html}
+<button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  Abstract
+</button>
+<div class="collapse" id="collapseExample">
+  <div class="card card-body">
+We study indivisibility of labor as key determinant of the choice of mothers to return to work after giving birth. In Italy, new mothers have to take five months of mandatory
+leave. In addition, parents are allowed up to 10 more months of leave. A 2015 law (i) gives parents the possibility of taking the voluntary leave on an hourly rather than a daily basis, and (ii) allows parents to turn a full-time contract into a part-time contract for any remaining months of voluntary leave. By comparing new parents before and after the law, we can study whether these provisions change leave length. We can then assess the effect of leave length and part-time work on the child penalty. This could go in either direction, depending on whether the compliers are mothers that in absence of the law would have worked full time or not worked. In order to disentangle the net effect into the two different treatment margins, we rely on an instrumental variable approach: the fraction of co-workers who chose different arrangements after childbirth in the previous years can be used as an instrument for individual choice, separately for the three possible choices (not working, working full-time, working part-time), and hence for the difference in utility cost of any two options.
+
+
+  </div>
+</div>
+```

@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - keybase.txt
+    - cv.pdf
+
+website:
+  title: "Ludovica Ciasullo"
+  site-url: https://ludovica-ciasullo.github.io
+  description: "Technology and the Environment"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: Ludovica Ciasullo
+  comments:
+    utterances:
+      repo: ludovica-ciasullo.github.io
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Research"
+        href: papers.html
+      - text: "CV"
+        href: cv.html
+      - text: "Other"
+        href: other.html
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
