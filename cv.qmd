@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-[Here is](cv.pdf) the most updated version of my CV
+[Here is](https://ludovica-ciasullo.github.io/CV.pdf) the most updated version of my CV
