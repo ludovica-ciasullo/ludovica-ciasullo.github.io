@@ -13,4 +13,4 @@ about:
 
 I am a fifth-year PhD student at New York University. I am interested in gender economics and labor market institutions.
 
-You can find my research [here](papers.html), and [here is my CV](https://ludovica-ciasullo.github.io/CV.pdf). Contact me at lc4177\@nyu.edu
+You can find my research [here](papers.html), and [here](https://ludovica-ciasullo.github.io/CV.pdf) is my CV]. Contact me at lc4177\@nyu.edu
