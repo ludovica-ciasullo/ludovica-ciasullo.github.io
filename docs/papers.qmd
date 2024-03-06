@@ -1,0 +1,48 @@
+---
+title: "Research"
+---
+
+## Working papers
+
+#### What works for working mothers? A regular schedule lowers the child penalty (with [Martina Uccioli](https://www.martinauccioli.com/)) -- [PDF (under revision)](https://ludovica-ciasullo.github.io/Ciasullo_Uccioli-Child_penalty_working_arrangements.pdf) -- [Most recent slides](https://ludovica-ciasullo.github.io/What works for woking couples.pdf)
+
+```{=html}
+<button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#Ciasullo_Uccioli_abstract" aria-expanded="false" aria-controls="Ciasullo_Uccioli_abstract">
+  Abstract
+</button>
+<div class="collapse" id="Ciasullo_Uccioli_abstract">
+  <div class="card card-body">
+Which work arrangements do mothers prefer, and how do these work arrangements affect the child penalty they experience? The Australian 2009 Fair Work Act explicitly entitled parents of young children to request a (reasonable) change in work arrangements. Leveraging variation in the timing of the law, timing of childbirth, and the bite of the law across different occupations and industries, we establish two main results. First, if allowed to request a change in work arrangements, new mothers ask for regularity in their schedule. Second, with regular schedules, working mothers' child penalty declined from a 47 percent drop in hours worked to a 40 percent drop. For the most exposed mothers, the Fair Work Act led to both a doubling in schedule regularity, and a 30% decrease in the child penalty in hours of work.
+  </div>
+</div>
+```
+## Work in progress
+
+#### Returns to Long Working Hours and Promotions
+
+```{=html}
+<button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#Ciasullo_abstract" aria-expanded="false" aria-controls="Ciasullo_abstract">
+  Abstract
+</button>
+<div class="collapse" id="Ciasullo_abstract">
+  <div class="card card-body">
+How do firms decide who to promote? Using Portuguese administrative data, I investigate the role of overtime work on careers in retail, starting from entry level positions. First, I show that long working hours are correlated with future promotions. Then, I argue that this relationship is weakened when overtime premium is very high. I develop a model of talent discovery and promotion allocation in which overtime is a signla of worker's type, and the more it is paid the less costly it becomes to send it (and therefore the less informative it is for the employer). Exploiting a 2012 reform that reduced overtime premium, heterogeneously for different firms, I argue that post-2012 the more affected firms reallocate promotions in the direction of favoring long-workers more.
+
+  </div>
+</div>
+```
+#### Full-time mothers, part-time workers (with [Martina Uccioli](https://www.martinauccioli.com/) and [Valeria Zurla](https://www.valeriazurla.com/))
+
+```{=html}
+<button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#CiasulloUccioliZurla_abstract" aria-expanded="false" aria-controls="CiasulloUccioliZurla_abstract">
+  Abstract
+</button>
+<div class="collapse" id="CiasulloUccioliZurla_abstract">
+  <div class="card card-body">
+We study indivisibility of labor as key determinant of the choice of mothers to return to work after giving birth. In Italy, new mothers have to take five months of mandatory
+leave. In addition, parents are allowed up to 10 more months of leave. A 2015 law (i) gives parents the possibility of taking the voluntary leave on an hourly rather than a daily basis, and (ii) allows parents to turn a full-time contract into a part-time contract for any remaining months of voluntary leave. By comparing new parents before and after the law, we can study whether these provisions change leave length. We can then assess the effect of leave length and part-time work on the child penalty. This could go in either direction, depending on whether the compliers are mothers that in absence of the law would have worked full time or not worked. In order to disentangle the net effect into the two different treatment margins, we rely on an instrumental variable approach: the fraction of co-workers who chose different arrangements after childbirth in the previous years can be used as an instrument for individual choice, separately for the three possible choices (not working, working full-time, working part-time), and hence for the difference in utility cost of any two options.
+
+
+  </div>
+</div>
+```
