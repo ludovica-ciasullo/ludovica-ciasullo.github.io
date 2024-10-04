@@ -1,5 +1,5 @@
 ---
-image: avatar.jpg
+image: Headshot.jpg
 about:
   template: trestles
   links:
