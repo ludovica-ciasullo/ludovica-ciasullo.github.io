@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working papers
 
-#### What works for working mothers? A regular schedule lowers the child penalty (with [Martina Uccioli](https://www.martinauccioli.com/)) -- [PDF](https://ludovica-ciasullo.github.io/Ciasullo_Uccioli-Child_penalty_working_arrangements.pdf)
+#### What works for working mothers? A regular schedule lowers the child penalty (with [Martina Uccioli](https://www.martinauccioli.com/)) -- [PDF](https://ludovica-ciasullo.github.io/Ciasullo_Uccioli_what_works_for_working_couples.pdf)
 
 ```{=html}
 <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#Ciasullo_Uccioli_abstract" aria-expanded="false" aria-controls="Ciasullo_Uccioli_abstract">
