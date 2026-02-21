@@ -11,7 +11,8 @@ about:
 
 ### **Welcome!**
 
-I am an associate at Cornerstone Research, New York. I received my Ph.D. in Economics from New York University.
+I am an [Associate](https://www.cornerstone.com/professionals/ludovica-ciasullo/) at Cornerstone Research, New York. I received my Ph.D. in Economics from New York University.
 
 You can find my research [here](papers.html), and [here](https://ludovica-ciasullo.github.io/CV.pdf) is my CV. contact me at ludovica.ciasullo@gmail.com
+
 
